@@ -1,0 +1,36 @@
+_repo: Grace-Harlowe-s-Plebe-Year-at-High-SchoolThe-Merry-Doings-of-the-Oakdale-Freshmen-Girls_20472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    - Gordon, Grace
+    - Lester, Pauline
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_bookshelf:
+- School Stories
+- Children's Book Series
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'High school students -- Juvenile fiction'
+title: 'Grace Harlowe''s Plebe Year at High School
+
+  The Merry Doings of the Oakdale Freshmen Girls'
+url: http://www.gutenberg.org/ebooks/20472
